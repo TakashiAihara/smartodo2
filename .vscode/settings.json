@@ -2,6 +2,11 @@
   "typescript.tsdk": "node_modules/.pnpm/typescript@4.9.3/node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "cSpell.words": [
-    "tailwindcss"
+    "Aihara",
+    "Aihara's",
+    "fixpack",
+    "smartodo",
+    "tailwindcss",
+    "Takashi"
   ]
 }
